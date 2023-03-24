@@ -1,0 +1,30 @@
+img {
+  height:100px;
+}
+article {
+    border: 3px double white;
+}
+nav {
+    border: 3px double blue;
+}
+body{
+    background-color:lightblue;
+}
+aside {
+    border: 3px double green;
+}
+.page {
+    border: 4px solid black;
+    padding: 5px;
+    margin:10px;
+	display: flex;
+}
+.president {
+    width: 200px;
+}
+.BOY{
+    width:100px;
+}
+.pet{
+    width:250px;
+}
